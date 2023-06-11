@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MaskGenerator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MaskGenerator_jar</output-path>
+    <root id="archive" name="MaskGenerator.jar">
+      <element id="module-output" name="MaskGenerator" />
+    </root>
+  </artifact>
+</component>
