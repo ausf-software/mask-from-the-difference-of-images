@@ -1,0 +1,1 @@
+# Mask from the difference of images
